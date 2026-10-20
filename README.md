@@ -15,6 +15,8 @@ These are not emulators. Each app is a community project that rebuilds a classic
 
 I maintain this pack mainly for myself and play on a Retroid Pocket Nova. Nothing in it is specific to that device, though: the apps are standard arm64 Android builds.
 
+Other recomp packs exist, such as [Obtainium-Recomp-Decomp](https://codeberg.org/BBoi34/Obtainium-Recomp-Decomp) on Codeberg. This one is stricter: I test every game here myself and only add projects that are already comfortably playable, not early builds that barely run. If a project stalls or is abandoned, or a new fork takes over, I update the list to match.
+
 ## Getting Started
 
 ### 1. Install Obtainium
