@@ -118,6 +118,19 @@
       "overrideSource": "GitHub"
     },
     {
+      "id": "com.perfectdark.port",
+      "url": "https://github.com/izzy2lost/perfect_dark",
+      "author": "izzy2lost",
+      "name": "Perfect Dark",
+      "preferredApkIndex": 0,
+      "additionalSettings": "{\"includePrereleases\": false, \"fallbackToOlderReleases\": true, \"filterReleaseTitlesByRegEx\": \"\", \"filterReleaseNotesByRegEx\": \"\", \"verifyLatestTag\": false, \"sortMethodChoice\": \"date\", \"useLatestAssetDateAsReleaseDate\": false, \"releaseTitleAsVersion\": false, \"github-creds\": \"\", \"GHReqPrefix\": \"\", \"trackOnly\": false, \"versionExtractionRegEx\": \"\", \"matchGroupToUse\": \"\", \"versionDetection\": true, \"releaseDateAsVersion\": false, \"useVersionCodeAsOSVersion\": false, \"apkFilterRegEx\": \"\", \"invertAPKFilter\": false, \"autoApkFilterByArch\": true, \"appName\": \"\", \"appAuthor\": \"\", \"shizukuPretendToBeGooglePlay\": false, \"allowInsecure\": false, \"exemptFromBackgroundUpdates\": false, \"skipUpdateNotifications\": false, \"refreshBeforeDownload\": false, \"includeZips\": false, \"zippedApkFilterRegEx\": \"\", \"about\": \"Perfect Dark (N64) native port\"}",
+      "categories": [
+        "Recomp"
+      ],
+      "allowIdChange": true,
+      "overrideSource": "GitHub"
+    },
+    {
       "id": "1427406465",
       "url": "https://github.com/heyalmoo/Obtainium-Android-Recomps",
       "author": "heyalmoo",

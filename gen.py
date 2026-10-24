@@ -41,6 +41,9 @@ APPS = [
  ("com.openport.galaxyandroid", "OpenPort-Labs/Galaxy-Android", "Galaxy Android",
   "Super Mario Galaxy (Wii)",
   dict(versionDetection=False)),
+ ("com.perfectdark.port", "izzy2lost/perfect_dark", "Perfect Dark",
+  "Perfect Dark (N64)",
+  {}),
 ]
 
 def entry(pid, repo, name, about, settings, allow_id_change=True):

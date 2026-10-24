@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.0 — 2026-10-24
+
+- Added Perfect Dark (izzy2lost/perfect_dark).
+
 ## v1.0.0 — 2026-10-21
 
 First release: 9 ports, plus the pack tracking itself.
